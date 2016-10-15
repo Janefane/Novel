@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_01cc990dcf2d17d688f9fc2e7c93ea22339e41ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_11e5c01617ee667d4a45ba948a656c898b69cbfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_1a88588d86205825a3225019b657d26fc4d4e22f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="41a4edf3c43fdbce6eba27da50b17ff9933987f1">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.7_f6b159ed46c62ef2f26d44b8df19ef6e60712af2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_7e4087d44ecccf1fe656624edf8d9235fadef990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_7a97a0e5f15ad2fb9f6ad04ed06ac9e4763a58a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8d68293e06d002da27fcc2143adc675a851a6fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.15\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.orhanobut-logger-1.15_ff5bb5d70744d83e294b8640cbadd6961fd83df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_9d7a8f5dea3d340fef24434360a1a6ae3e446131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao-api\3.1.1\f95718a93bba2b50422d31bb695207af8a3b54da\greendao-api-3.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f95718a93bba2b50422d31bb695207af8a3b54da">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\greendao-api-3.1.1_b535a8bcca9c919e1dbf218b55b3f696321a28e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_f6582e6793eedf21aff072764e5c6aaaf97d6ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao\3.1.1\549de9d8793d3c713690fcb3f5561955c94ea3a0\greendao-3.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="549de9d8793d3c713690fcb3f5561955c94ea3a0">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\greendao-3.1.1_81e8aa38b059b1ad0746d3d96710a76284074cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidConfig\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_e3c76d38e759ec4f4096de022fb3dcb7b62830a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e454b54121db9472fe95675329e6f33006016fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.2\5e3bda828a80c7a21dfbe2308d1755759c2fd7b4\jsoup-1.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e3bda828a80c7a21dfbe2308d1755759c2fd7b4">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\jsoup-1.9.2_62eab2ae28fd6d6aae446320496b6e7442bdfc6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_333bf1e71ff6efda3b85ce6d5f20758bff80df58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_65f7bbf2c6ad38b3b47248233f289d8538f89193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_52ae0887209a7ea0d4017e831c392509be8b1250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.17\be249d63279f79d827a6bb0328b7d7938730c694\fastjson-1.2.17.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="be249d63279f79d827a6bb0328b7d7938730c694">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\fastjson-1.2.17_00d7c8f29620068a19b9dbb5104044de57b732a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0da0056dafee64907c0c1948c0375ae5effa652e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d5b8e552430995c63116634a6b537ecc0cb13286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_cd07821b92fc751621e3892268a99db8e458b865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_e5f21f10092661826ea1ecd5abe15f9852c2d07a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_cf4fe4e1fe5c8c7857bdae49c4165f038ab3ab0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_28b60ae73e7cf1cc60497d3d63c9c3fc284d4966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_d990bf1696edd74a86d1fca4692630c4f6ead4e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_e07cd3be6ca5f5d322beee7cf98615aa5b34d34e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\example\Novel\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\example\Novel\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_fdaed83e947675d7bae6ae46384006694f5d99b4.jar" />
+    </item>
+
+</items>
