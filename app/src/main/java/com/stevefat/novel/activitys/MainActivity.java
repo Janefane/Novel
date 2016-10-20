@@ -33,6 +33,7 @@ import com.stevefat.novel.mvp.presenter.MainPresenter;
 import com.stevefat.novel.mvp.view.MainView;
 import com.stevefat.novel.utils.DialogUtils;
 
+import java.util.Collections;
 import java.util.List;
 
 import butterknife.BindView;
@@ -133,6 +134,7 @@ public class MainActivity extends AppCompatActivity implements MainView {
     }
 
     private void setAdapter() {
+        Collections.reverse(mCatalogs);
         adapter = new RecycleAdapter();
         adapter.setDatas(mCatalogs);
         mRecyclerView.setAdapter(adapter);

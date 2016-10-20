@@ -18,7 +18,8 @@ public interface ApiManagerServices {
      * @return
      */
 
-    @GET("read/131690/")
+//    @GET("read/68383/")  //不灭剑君
+    @GET("read/131690/")  //一品少主
     Observable<ResponseBody> getCatalog();
 
     @GET("{url}")
